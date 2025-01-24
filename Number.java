@@ -64,6 +64,7 @@ public class Number
 		returnString += number + " isOdd == " + isOdd() + "\n";
 		returnString += number + " isPerfect == " + isPerfect() + "\n\n";
 
-		return "" + returnString;
+		//return "" + returnString;
+		return "" + number;
 	}
 }

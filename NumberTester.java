@@ -16,8 +16,8 @@ public class NumberTester
 
 
 		//add more test cases
-
-
+		Number myNum2 = new Number(7);
+		System.out.println(myNum2);
 
 
 	}
